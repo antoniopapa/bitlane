@@ -1,5 +1,13 @@
 ## Instructions
 
+### Requirements
+There is a real estate company „Maklertest GmbH“ located in Musterstraße 123, 12345 Berlin. They want to have a website where they can login and store excel, word and pdf-documents. Even if they have different coworkers, there is only one login needed.
+Task: use an MVC-Framework of your choice to solve this request.
+The CI-Colors of the company are #241a48 as main color and #ff650b as highlightcolor.
+
+### Description 
+The following is a Single Page Application built with Angular 7 and Laravel 7
+
 ### Building
 ```bash
 docker-compose up
