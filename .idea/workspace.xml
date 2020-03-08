@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7cea99a-0e60-4697-9043-7fc033339b44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/app/interceptors/token.interceptor.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/app/models/company.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/app/models/file.ts" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/src/app/app.component.spec.ts" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/angular.json" afterPath="$PROJECT_DIR$/frontend/angular.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/package.json" afterPath="$PROJECT_DIR$/frontend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/environments/environment.ts" afterPath="$PROJECT_DIR$/frontend/src/environments/environment.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/index.html" afterPath="$PROJECT_DIR$/frontend/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/styles.scss" afterPath="$PROJECT_DIR$/frontend/src/styles.scss" />
-    </list>
+    <list default="true" id="f7cea99a-0e60-4697-9043-7fc033339b44" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +38,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend/.env">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -86,7 +71,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -264,6 +249,7 @@
       <recent name="$PROJECT_DIR$/frontend/src/app/models" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/frontend/src/app/interceptors" />
     </key>
   </component>
@@ -294,12 +280,12 @@
       <updated>1583593319160</updated>
       <workItem from="1583593320264" duration="5623000" />
       <workItem from="1583603133636" duration="9363000" />
-      <workItem from="1583650065874" duration="18338000" />
+      <workItem from="1583650065874" duration="18588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33324000" />
+    <option name="totallyTimeSpent" value="33574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="24" width="1440" height="801" extended-state="0" />
@@ -338,55 +324,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <marker date="1583616691497" expanded="true" signature="131:4055" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="149:3288" ph="{&quot;root&quot;: &quot;&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="275:539" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="318:380" ph="{&quot;style&quot;: &quot;scss&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="420:455" ph="{&quot;spec&quot;: false...}" />
-            <marker date="1583616691497" expanded="true" signature="496:531" ph="{&quot;spec&quot;: false...}" />
-            <marker date="1583616691497" expanded="true" signature="560:3282" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="579:1953" ph="{&quot;builder&quot;: &quot;@angular-devkit/build-angular:browser&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="664:1123" ph="{&quot;outputPath&quot;: &quot;dist/frontend&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="899:974" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="998:1045" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="1153:1943" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="1181:1931" ph="{&quot;optimization&quot;: true...}" />
-            <marker date="1583616691497" expanded="true" signature="1217:1399" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="1235:1383" ph="{&quot;replace&quot;: &quot;src/environments/environment.ts&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="1744:1917" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="1762:1901" ph="{&quot;type&quot;: &quot;initial&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="1972:2273" ph="{&quot;builder&quot;: &quot;@angular-devkit/build-angular:dev-server&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="2060:2119" ph="{&quot;browserTarget&quot;: &quot;frontend:build&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="2149:2263" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="2177:2251" ph="{&quot;browserTarget&quot;: &quot;frontend:build:production&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="2299:2458" ph="{&quot;builder&quot;: &quot;@angular-devkit/build-angular:extract-i18n&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="2389:2448" ph="{&quot;browserTarget&quot;: &quot;frontend:build&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="2476:2956" ph="{&quot;builder&quot;: &quot;@angular-devkit/build-angular:karma&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="2559:2946" ph="{&quot;main&quot;: &quot;src/test.ts&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="2761:2808" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="2859:2934" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="2974:3274" ph="{&quot;builder&quot;: &quot;@angular-devkit/build-angular:tslint&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="3058:3264" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="3084:3177" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="3202:3252" ph="[...]" />
-            <marker date="1583616691497" expanded="true" signature="3310:4051" ph="{&quot;root&quot;: &quot;e2e/&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="3409:4045" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="3426:3789" ph="{&quot;builder&quot;: &quot;@angular-devkit/build-angular:protractor&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="3514:3633" ph="{&quot;protractorConfig&quot;: &quot;e2e/protractor.conf.js&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="3663:3779" ph="{...}" />
-            <marker date="1583616691497" expanded="true" signature="3691:3767" ph="{&quot;devServerTarget&quot;: &quot;frontend:serve:production&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="3807:4037" ph="{&quot;builder&quot;: &quot;@angular-devkit/build-angular:tslint&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="3891:4027" ph="{&quot;tsConfig&quot;: &quot;e2e/tsconfig.e2e.json&quot;...}" />
-            <marker date="1583616691497" expanded="true" signature="3965:4015" ph="[...]" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/environments/environment.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1113,6 +1050,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
